@@ -1,6 +1,7 @@
-import React from 'react';
 
 
+
+{/*
 const Section7 = () => {
   return (
     <div>
@@ -17,8 +18,9 @@ const Section7 = () => {
             <p className="text-white text-lg mt-2">
               From intelligent resume screening to seamless video interviews and
               skill assessments, our platform helps you hire smarter and faster.
-            </p>
-            {/* Start a Free Trial Button */}
+            </p>*/}
+            {
+              /* Start a Free Trial Button 
             <button className="mt-6 bg-white text-black border-2 px-6 py-3 rounded-md hover:bg-orange-600 hover:text-white transition-all">
               Start a Free Trial
             </button>
@@ -26,6 +28,7 @@ const Section7 = () => {
         </div>
     </div>
   )
-}
+}*/
+            }
 
 export default Section7;
